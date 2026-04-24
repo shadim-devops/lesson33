@@ -56,10 +56,6 @@ Wykonano:
 terraform init
 terraform plan
 
-Wynik:
-
-Plan: 5 to add, 0 to change, 0 to destroy
-
 Import zasobów
 
 Przeprowadzono proces importu istniejących zasobów do Terraform:
